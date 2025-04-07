@@ -25,7 +25,7 @@
 
 ## ☁️ Certificação
 
-- 📜 [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) — Conquistada com foco em fundamentos de computação em nuvem, segurança, arquitetura e billing.
+- 📜 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/24300b26-5c61-4849-91ed-08bc5db7f93e/linked_in?t=ste15v) — Conquistada com foco em fundamentos de computação em nuvem, segurança, arquitetura e billing.
 
 ---
 
