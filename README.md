@@ -1,21 +1,49 @@
-## Oiii! Eu sou a Kamila Rosa 👋
 
-- 🌱 Estudante de Gestão da Tecnologia da Informação
-- 😄 Pronouns: ela/dela
+<h1 align="center">Olá, eu sou a Kamila 👋</h1>
 
+<p align="center">
+  🎓 Estudante de <strong>Gestão da Tecnologia da Informação</strong><br>
+  ☁️ Certificada <strong>AWS Cloud Practitioner</strong><br>
+  💡 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções<br>
+  🔍 Em busca de oportunidades de estágio e novos desafios na área de TI<br>
+  🔗 Pronome: <strong>ela/dela</strong>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
+---
+
+## 🚀 Tecnologias & Linguagens que conheço
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
-  <div> 
- <a href="https://discord.gg/kamilarosa_54504" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kamilarcf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.https://www.linkedin.com/in/kamila-rosa-15a818309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+## ☁️ Certificação
+
+- 📜 [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) — Conquistada com foco em fundamentos de computação em nuvem, segurança, arquitetura e billing.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub de Kamila](https://github-readme-stats.vercel.app/api?username=kamilarosaf&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilarosaf&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamilarosaf&theme=radical)](https://github.com/kamilarosaf)
+
+---
+
+## 📫 Contato
+
+- ✉️ kamilarcf@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamila-rosa-15a818309/) 
+
+---
+
+✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
