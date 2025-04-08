@@ -15,8 +15,9 @@ jobs:
           github_user_name: kamilarosaf
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#00BFFF'
-          color_dots: '#B0E0E6,#ADD8E6,#87CEFA,#00BFFF,#1E90FF'
+          color_snake: '#00BFFF'         # Azul claro (DeepSkyBlue)
+          color_dots: '#B0E0E6,#ADD8E6,#87CEFA,#00BFFF,#1E90FF' # Tons de azul
+
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
