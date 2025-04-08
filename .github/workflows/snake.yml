@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,15 +15,15 @@ jobs:
           github_user_name: kamilarosaf
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#00BFFF'         # Azul claro (DeepSkyBlue)
-          color_dots: '#B0E0E6,#ADD8E6,#87CEFA,#00BFFF,#1E90FF' # Tons de azul
-
+          color_snake: '#00BFFF'
+          color_dots: '#B0E0E6,#ADD8E6,#87CEFA,#00BFFF,#1E90FF'
+          background: '#0d1117'  # Fundo igual ao GitHub dark mode
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true  # <-- essa linha é importante!
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
