@@ -49,5 +49,8 @@
 
 ✨ Obrigada por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
 
-![Snake animation](https://github.com/kamilarosaf/kamilarosaf/blob/output/github-contribution-grid-snake.svg)
+---
 
+## 📊 Contribuições
+
+![Snake animation](https://github.com/kamilarosaf/kamilarosaf/blob/output/github-contribution-grid-snake.svg)
