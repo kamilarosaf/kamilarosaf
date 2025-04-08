@@ -35,7 +35,8 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilarosaf&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamilarosaf&theme=radical)](https://github.com/kamilarosaf)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamilarosaf&theme=radical)](https://github.com/kamilarosaf)
+
 
 ---
 
