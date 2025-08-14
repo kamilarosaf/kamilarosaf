@@ -27,9 +27,9 @@
 ### Minhas Certificações e Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/cloud_practitioner.png" alt="AWS Certified Cloud Practitioner" width="150">
-  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/serveless.png" alt="AWS Knowledge: Serverless" width="150">
-  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/graduate.png" alt="AWS re/Start Graduate" width="150">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/practitioner.png" alt="AWS Certified Cloud Practitioner" width="150">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/serverless.png" alt="AWS Knowledge: Serverless" width="150">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/re-start.png" alt="AWS re/Start Graduate" width="150">
   <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/well-architected.png" alt="Well-Architected Proficient" width="150">
 </p>
 
