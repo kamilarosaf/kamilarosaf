@@ -24,8 +24,14 @@
 ---
 
 ## ☁️ Certificação
+### Minhas Certificações e Badges
 
-- 📜 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/24300b26-5c61-4849-91ed-08bc5db7f93e/linked_in?t=ste15v) — Conquistada com foco em fundamentos de computação em nuvem, segurança, arquitetura e billing.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/cloud_practitioner.png" alt="AWS Certified Cloud Practitioner" width="150">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/serveless.png" alt="AWS Knowledge: Serverless" width="150">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/graduate.png" alt="AWS re/Start Graduate" width="150">
+  <img src="https://raw.githubusercontent.com/kamilarosaf/kamilarosaf/main/well-architected.png" alt="Well-Architected Proficient" width="150">
+</p>
 
 ---
 
