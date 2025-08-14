@@ -5,7 +5,7 @@
   🎓 Estudante de <strong>Gestão da Tecnologia da Informação</strong><br>
   ☁️ Certificada <strong>AWS Cloud Practitioner</strong><br>
   💡 Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções<br>
-  🔍 Em busca de oportunidades de estágio e novos desafios na área de TI<br>
+  🔍 Atualmente estagiando Gestão de Projetos e Processos<br>
   🔗 Pronome: <strong>ela/dela</strong>
 </p>
 
